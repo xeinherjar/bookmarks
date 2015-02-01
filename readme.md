@@ -21,6 +21,7 @@ To contribute, clone, edit and create a pull request.
 ### - JavaScript
   - [JavaScript Allonge](https://leanpub.com/javascript-allonge/read/) Functional programming in JavaScript.
   - [JavaScript Spessore](https://leanpub.com/javascript-spessore/read/) Object Oriented programming in JavaScript.
+  - [Free JavaScript Book Collection](http://jsbooks.revolunet.com/) A free collection of JavaScript books.
 
 ### - Regex
   - [RegExper](http://www.regexper.com) Regex helper.  Creates a visual representation of the regular expression that you enter.
