@@ -4,7 +4,17 @@ This is an open collection of programming and computer related sites around the 
 To contribute, clone, edit and create a pull request.
 
 
-# Links
+# The Links
+
+## Inspirational
+
+## Programming
+  - General
+    - [http://www.howistart.org/](How I Start) Collection of tutorials that cover not only how to start in the language but also cover machine setup and project flow.
+
+### - JavaScript
+  - [https://leanpub.com/javascript-allonge/read/](JavaScript Allonge) Functional programming in JavaScript.
+  - [https://leanpub.com/javascript-spessore/read/](JavaScript Spessore) Object Oriented programming in JavaScript.
 
 ## Web Design
 
@@ -15,3 +25,6 @@ To contribute, clone, edit and create a pull request.
 
 ### - Patterns
   - [http://subtlepatterns.com](Subtle Patterns)
+
+### - Typography
+  - [http://practicaltypography.com/typography-in-ten-minutes.html/](Typography in Ten Minutes) Quick notes on typography.
