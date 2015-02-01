@@ -10,21 +10,21 @@ To contribute, clone, edit and create a pull request.
 
 ## Programming
   - General
-    - [http://www.howistart.org/](How I Start) Collection of tutorials that cover not only how to start in the language but also cover machine setup and project flow.
+    - [How I Start](http://www.howistart.org/) Collection of tutorials that cover not only how to start in the language but also cover machine setup and project flow.
 
 ### - JavaScript
-  - [https://leanpub.com/javascript-allonge/read/](JavaScript Allonge) Functional programming in JavaScript.
-  - [https://leanpub.com/javascript-spessore/read/](JavaScript Spessore) Object Oriented programming in JavaScript.
+  - [JavaScript Allonge](https://leanpub.com/javascript-allonge/read/) Functional programming in JavaScript.
+  - [JavaScript Spessore](https://leanpub.com/javascript-spessore/read/) Object Oriented programming in JavaScript.
 
 ## Web Design
 
 ### - Colors
-  - [https://kuler.adobe.com/explore/newest/](Adobe Kueler) Color themes.
-  - [http://colourlovers.com/](Colour Lovers) Color themes and patterns.
-  - [http://colorschemedesigner.com/](Color Scheme Designer) Color theme builder.
+  - [Adobe Kueler](https://kuler.adobe.com/explore/newest/) Color themes.
+  - [Colour Lovers](http://colourlovers.com/) Color themes and patterns.
+  - [Color Scheme Designer](http://colorschemedesigner.com/] Color theme builder.
 
 ### - Patterns
   - [http://subtlepatterns.com](Subtle Patterns)
 
 ### - Typography
-  - [http://practicaltypography.com/typography-in-ten-minutes.html/](Typography in Ten Minutes) Quick notes on typography.
+  - [Typography in Ten Minutes](http://practicaltypography.com/typography-in-ten-minutes.html/) Quick notes on typography.
