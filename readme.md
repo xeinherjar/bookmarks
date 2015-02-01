@@ -30,7 +30,7 @@ To contribute, clone, edit and create a pull request.
 
 ### - Text Editors
   - Emacs
-    - [Emacs Reference Card](http://www.ic.unicamp.br/~helio/disciplinas/MC102/Emacs_Reference_Card.pdf) Printable reference card with comment Emacs chords.
+    - [Emacs Reference Card](http://www.ic.unicamp.br/~helio/disciplinas/MC102/Emacs_Reference_Card.pdf) Printable reference card with common Emacs chords.
   - VIM
     - [Vim Casts](http://vimcasts.org/episodes/) Short webcasts with tips and tricks.
 
