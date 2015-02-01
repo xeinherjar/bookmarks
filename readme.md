@@ -7,7 +7,7 @@ To contribute, clone, edit and create a pull request.
 # The Links
 
 ## Inspirational
-  - [Learn to Program in 10 Years](http://norvig.com/21-days.html/) A great reminder that programming is a skill and that it takes time and practice to master.
+  - [Learn to Program in 10 Years](http://norvig.com/21-days.html) A great reminder that programming is a skill and that it takes time and practice to master.
   - [The Best Programming Advice I Ever Got](http://www.informit.com/promotions/experts-in-programming-share-their-knowledge-with-the-138930/) Collection of stories by well known programmers about advice they received and how it helped them.
 
 ## Programming
@@ -46,4 +46,4 @@ To contribute, clone, edit and create a pull request.
   - [Subtle Patterns](http://subtlepatterns.com) Free patterns, CC BY-SA 3.0
 
 ### - Typography
-  - [Typography in Ten Minutes](http://practicaltypography.com/typography-in-ten-minutes.html/) Quick notes on typography.
+  - [Typography in Ten Minutes](http://practicaltypography.com/typography-in-ten-minutes.html) Quick notes on typography.
