@@ -43,7 +43,7 @@ To contribute, clone, edit and create a pull request.
   - [Color Scheme Designer](http://colorschemedesigner.com/) Color theme builder.
 
 ### - Patterns
-  - [Subtle Patterns](http://subtlepatterns.com) Free patterns, CC BY-SA 3.0l
+  - [Subtle Patterns](http://subtlepatterns.com) Free patterns, CC BY-SA 3.0
 
 ### - Typography
   - [Typography in Ten Minutes](http://practicaltypography.com/typography-in-ten-minutes.html/) Quick notes on typography.
