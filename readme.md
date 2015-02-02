@@ -22,6 +22,8 @@ To contribute, clone, edit and create a pull request.
   - [JavaScript Allonge](https://leanpub.com/javascript-allonge/read/) Functional programming in JavaScript.
   - [JavaScript Spessore](https://leanpub.com/javascript-spessore/read/) Object Oriented programming in JavaScript.
   - [Free JavaScript Book Collection](http://jsbooks.revolunet.com/) A free collection of JavaScript books.
+  - [JavaScript Module Pattern](http://www.adequatelygood.com/JavaScript-Module-Pattern-In-Depth.html) Examples and Explanation of the Module pattern.
+  - [7 JavaScript Things I Wish I Knew Earlier in My Career](http://www.smashingmagazine.com/2010/04/20/seven-javascript-things-i-wish-i-knew-much-earlier-in-my-career/) 7 tips.  Mostly interesting for module coverage.
 
 ### - Regex
   - [RegExper](http://www.regexper.com) Regex helper.  Creates a visual representation of the regular expression that you enter.
