@@ -24,6 +24,7 @@ To contribute, clone, edit and create a pull request.
   - [Free JavaScript Book Collection](http://jsbooks.revolunet.com/) A free collection of JavaScript books.
   - [JavaScript Module Pattern](http://www.adequatelygood.com/JavaScript-Module-Pattern-In-Depth.html) Examples and Explanation of the Module pattern.
   - [7 JavaScript Things I Wish I Knew Earlier in My Career](http://www.smashingmagazine.com/2010/04/20/seven-javascript-things-i-wish-i-knew-much-earlier-in-my-career/) 7 tips.  Mostly interesting for module coverage.
+  - [Douglas Crockford's JavaScript Page](http://javascript.crockford.com/) A collection of articles about JavaScript that really explain how it works.  By the man who brought us JSON, JSLint and JavaScript the Good Parts.
 
 ### - Regex
   - [RegExper](http://www.regexper.com) Regex helper.  Creates a visual representation of the regular expression that you enter.
