@@ -26,6 +26,8 @@ To contribute, clone, edit and create a pull request.
   - [7 JavaScript Things I Wish I Knew Earlier in My Career](http://www.smashingmagazine.com/2010/04/20/seven-javascript-things-i-wish-i-knew-much-earlier-in-my-career/) 7 tips.  Mostly interesting for module coverage.
   - [Douglas Crockford's JavaScript Page](http://javascript.crockford.com/) A collection of articles about JavaScript that really explain how it works.  By the man who brought us JSON, JSLint and JavaScript the Good Parts.
  - [You Don't Know JS](https://github.com/getify/You-Dont-Know-JS/) Book series on JavaScript that does deep dives on each part of the language.
+
+
 ### - Regex
   - [RegExper](http://www.regexper.com) Regex helper.  Creates a visual representation of the regular expression that you enter.
 
@@ -33,9 +35,9 @@ To contribute, clone, edit and create a pull request.
 ## Tools
 
 ### - Version Control
-      - Git
-        - [Git-Flow workflow](http://nvie.com/posts/a-successful-git-branching-model/) Covers Git-Flow, a common workflow used when using Git.
-        - [Github workflow](http://scottchacon.com/2011/08/31/github-flow.html) Covers the Github workflow.
+  - Git
+    - [Git-Flow workflow](http://nvie.com/posts/a-successful-git-branching-model/) Covers Git-Flow, a common workflow used when using Git.
+    - [Github workflow](http://scottchacon.com/2011/08/31/github-flow.html) Covers the Github workflow.
 
 ### - Text Editors
   - Emacs
