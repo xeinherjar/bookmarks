@@ -6,6 +6,10 @@ To contribute, clone, edit and create a pull request.
 
 # The Links
 
+## Algorithms and Data Structures
+  - [Big O Cheat Sheet](http://bigocheatsheet.com/) Breakdown of common algorithms and their corresponding time/space complexities.
+
+
 ## Inspirational
   - [Learn to Program in 10 Years](http://norvig.com/21-days.html) A great reminder that programming is a skill and that it takes time and practice to master.
   - [The Best Programming Advice I Ever Got](http://www.informit.com/promotions/experts-in-programming-share-their-knowledge-with-the-138930/) Collection of stories by well known programmers about advice they received and how it helped them.
