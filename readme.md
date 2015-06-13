@@ -21,6 +21,7 @@ To contribute, clone, edit and create a pull request.
 
 ### - Clojure
   - [Clojure for the Brave and True](http://braveclojure.com/getting-started/) Clojure tutorial in the spirit of Learn you a Haskell for Great Good.
+  - [Clojure By Example](http://kimh.github.io/clojure-by-example) Succinct overview of Clojure's syntax and idioms.
 
 ### - General
   - [How I Start](http://www.howistart.org/) Collection of tutorials that cover not only how to start in the language but also cover machine setup and project flow.
@@ -72,8 +73,14 @@ To contribute, clone, edit and create a pull request.
 ### - Typography
   - [Typography in Ten Minutes](http://practicaltypography.com/typography-in-ten-minutes.html) Quick notes on typography.
 
-## - Test Your Might (koans, test, etc...)
+## - Test Your Might (koans, test, katas, challenges...)
+
+### - Non-denominational
+  - [CodeWars](http://www.codewars.com) Lot of challenges and katas for many different languages.
+
+### - Clojure
+  - [4Clojure](http://www.4clojure.com) Challenges to help you learn Clojure.
 
 ### - JavaScript
-  - [A test-driven JS assessment](https://github.com/rmurphey/js-assessment) A test-driven approach to assessing JS skills
-  - [Kolodny Coding challenges](https://github.com/kolodny/exercises) Some basic javascript coding challenges and interview questions
+  - [A test-driven JS assessment](https://github.com/rmurphey/js-assessment) A test-driven approach to assessing JS skills.
+  - [Kolodny Coding challenges](https://github.com/kolodny/exercises) Some basic javascript coding challenges and interview questions.
