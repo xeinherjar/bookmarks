@@ -14,6 +14,9 @@ To contribute, clone, edit and create a pull request.
   - [Learn to Program in 10 Years](http://norvig.com/21-days.html) A great reminder that programming is a skill and that it takes time and practice to master.
   - [The Best Programming Advice I Ever Got](http://www.informit.com/promotions/experts-in-programming-share-their-knowledge-with-the-138930/) Collection of stories by well known programmers about advice they received and how it helped them.
 
+## Patterns
+  - [The Twelve-Factor App](http://12factor.net/) Methodology for building Software-as-a-Service that offers: declarative formats for setup automation, maximum portability between execution environments, suitable for deployment on modern cloud platforms, minimizing divergence between development and production, and can scale up without significant changes to tooling, architecture, or development practices.
+
 ## Programming
 
 ### - Clojure
@@ -21,6 +24,9 @@ To contribute, clone, edit and create a pull request.
 
 ### - General
   - [How I Start](http://www.howistart.org/) Collection of tutorials that cover not only how to start in the language but also cover machine setup and project flow.
+
+### - Go
+  - [Resources for New Go Programmers](http://dave.cheney.net/resources-for-new-go-programmers) Collection of learning resources for the Go Programming Language.
 
 ### - JavaScript
   - [JavaScript Allonge](https://leanpub.com/javascript-allonge/read/) Functional programming in JavaScript.
@@ -35,6 +41,8 @@ To contribute, clone, edit and create a pull request.
 ### - Regex
   - [RegExper](http://www.regexper.com) Regex helper.  Creates a visual representation of the regular expression that you enter.
 
+### - Security
+  - [OWASP HTML5 Security Cheat Sheet](https://www.owasp.org/index.php/HTML5_Security_Cheat_Sheet)
 
 ## Tools
 
@@ -46,6 +54,7 @@ To contribute, clone, edit and create a pull request.
 ### - Text Editors
   - Emacs
     - [Emacs Reference Card](http://www.ic.unicamp.br/~helio/disciplinas/MC102/Emacs_Reference_Card.pdf) Printable reference card with common Emacs chords.
+    - [Sam's Teach Yourself Emacs in 24 hours](http://www.emacs.uniyar.ac.ru/doc/em24h/) Online version of Sam's Teach Yourself Emacs in 24 hours.
   - VIM
     - [Vim Casts](http://vimcasts.org/episodes/) Short webcasts with tips and tricks.
 
@@ -62,3 +71,9 @@ To contribute, clone, edit and create a pull request.
 
 ### - Typography
   - [Typography in Ten Minutes](http://practicaltypography.com/typography-in-ten-minutes.html) Quick notes on typography.
+
+## - Test Your Might (koans, test, etc...)
+
+### - JavaScript
+  - [A test-driven JS assessment](https://github.com/rmurphey/js-assessment) A test-driven approach to assessing JS skills
+  - [Kolodny Coding challenges](https://github.com/kolodny/exercises) Some basic javascript coding challenges and interview questions
