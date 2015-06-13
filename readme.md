@@ -13,6 +13,8 @@ To contribute, clone, edit and create a pull request.
 ## Inspirational
   - [Learn to Program in 10 Years](http://norvig.com/21-days.html) A great reminder that programming is a skill and that it takes time and practice to master.
   - [The Best Programming Advice I Ever Got](http://www.informit.com/promotions/experts-in-programming-share-their-knowledge-with-the-138930/) Collection of stories by well known programmers about advice they received and how it helped them.
+  - [What is Code](www.bloomberg.com/graphics/2015-paul-ford-what-is-code) Paul Ford's extravagant essay/novella that tries to explain code.  Warning, very long read.
+  - [Programing Sucks](http://www.stilldrinking.org/programming-sucks) Essay that explores why programing sucks.
 
 ## Patterns
   - [The Twelve-Factor App](http://12factor.net/) Methodology for building Software-as-a-Service that offers: declarative formats for setup automation, maximum portability between execution environments, suitable for deployment on modern cloud platforms, minimizing divergence between development and production, and can scale up without significant changes to tooling, architecture, or development practices.
