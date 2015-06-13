@@ -51,6 +51,7 @@ To contribute, clone, edit and create a pull request.
   - Git
     - [Git-Flow workflow](http://nvie.com/posts/a-successful-git-branching-model/) Covers Git-Flow, a common workflow used when using Git.
     - [Github workflow](http://scottchacon.com/2011/08/31/github-flow.html) Covers the Github workflow.
+    - [Pro Git Book](https://git-scm.com/book/en/v2) The entire Pro Git book, written by Scott Chacon and Ben Straub and published by Apress.
 
 ### - Text Editors
   - Emacs
