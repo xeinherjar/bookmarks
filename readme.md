@@ -39,13 +39,17 @@ To contribute, clone, edit and create a pull request.
   - [7 JavaScript Things I Wish I Knew Earlier in My Career](http://www.smashingmagazine.com/2010/04/20/seven-javascript-things-i-wish-i-knew-much-earlier-in-my-career/) 7 tips.  Mostly interesting for module coverage.
   - [Douglas Crockford's JavaScript Page](http://javascript.crockford.com/) A collection of articles about JavaScript that really explain how it works.  By the man who brought us JSON, JSLint and JavaScript the Good Parts.
   - [You Don't Know JS](https://github.com/getify/You-Dont-Know-JS/) Book series on JavaScript that does deep dives on each part of the language.
+  - [ES6 Katas](http://es6katas.org/) Series of katas that cover the new features in ES6.
 
+### - Lisp
+  - [Learn Lisp The Hard Way](http://learnlispthehardway.org/) Free online book created by the Toronto Lisp User Group.  It follows the same format as Zed Shaw's Learn x The Hard Way books.
 
 ### - Regex
   - [RegExper](http://www.regexper.com) Regex helper.  Creates a visual representation of the regular expression that you enter.
 
 ### - Security
   - [OWASP HTML5 Security Cheat Sheet](https://www.owasp.org/index.php/HTML5_Security_Cheat_Sheet)
+  - [Microcorruption](https://www.microcorruption.com/) Embedded Security CTF.  Debuggers and assembler and hexadecimal oh my.
 
 ## Tools
 
