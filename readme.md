@@ -65,6 +65,7 @@ To contribute, clone, edit and create a pull request.
     - [Sam's Teach Yourself Emacs in 24 hours](http://www.emacs.uniyar.ac.ru/doc/em24h/) Online version of Sam's Teach Yourself Emacs in 24 hours.
   - VIM
     - [Vim Casts](http://vimcasts.org/episodes/) Short webcasts with tips and tricks.
+    - [VimGolf](http://www.vimgolf.com/) Vim challenges
 
 
 ## Web Design
