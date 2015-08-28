@@ -53,11 +53,9 @@ To contribute, clone, edit and create a pull request.
 
 ## Tools
 
-### - Version Control
-  - Git
-    - [Git-Flow workflow](http://nvie.com/posts/a-successful-git-branching-model/) Covers Git-Flow, a common workflow used when using Git.
-    - [Github workflow](http://scottchacon.com/2011/08/31/github-flow.html) Covers the Github workflow.
-    - [Pro Git Book](https://git-scm.com/book/en/v2) The entire Pro Git book, written by Scott Chacon and Ben Straub and published by Apress.
+### - Shell
+  - [Codecademy's Command Line Course](https://www.codecademy.com/courses/learn-the-command-line) Codecademy's Command Line course.  Good place to start for beginners.
+  - [Command Line Fu](http://www.commandlinefu.com/) Collection of snippets submitted by users, great for one liners.  (Hint: sort by votes)
 
 ### - Text Editors
   - Emacs
@@ -67,6 +65,12 @@ To contribute, clone, edit and create a pull request.
     - [Vim Casts](http://vimcasts.org/episodes/) Short webcasts with tips and tricks.
     - [VimGolf](http://www.vimgolf.com/) Vim challenges
 
+
+### - Version Control
+  - Git
+    - [Git-Flow workflow](http://nvie.com/posts/a-successful-git-branching-model/) Covers Git-Flow, a common workflow used when using Git.
+    - [Github workflow](http://scottchacon.com/2011/08/31/github-flow.html) Covers the Github workflow.
+    - [Pro Git Book](https://git-scm.com/book/en/v2) The entire Pro Git book, written by Scott Chacon and Ben Straub and published by Apress.
 
 ## Web Design
 
