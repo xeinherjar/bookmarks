@@ -24,6 +24,7 @@ To contribute, clone, edit and create a pull request.
 ### - Clojure
   - [Clojure for the Brave and True](http://braveclojure.com/getting-started/) Clojure tutorial in the spirit of Learn you a Haskell for Great Good.
   - [Clojure By Example](http://kimh.github.io/clojure-by-example) Succinct overview of Clojure's syntax and idioms.
+  - [Lamda Island](https://lambdaisland.com/) Short bite sized screen cast
 
 ### - General
   - [How I Start](http://www.howistart.org/) Collection of tutorials that cover not only how to start in the language but also cover machine setup and project flow.
